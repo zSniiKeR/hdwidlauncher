@@ -1,7 +1,3 @@
 S-1-5-21-1792860351-2724377317-3405341243-1000 - Richard - 1 mês - Inicio 5 de abril
 S-1-5-21-3098283809-3868523283-3426949740-1001 - Vinicius
-user=richard;pass=1234;
-username:richard
-passwrod:1234
-user:richard
-password:1234
+richard/1234/S-1-5-21-1792860351-2724377317-3405341243-1000
